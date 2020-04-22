@@ -18,6 +18,7 @@ function App(){
     </header> <br/> <br/> 
         <Route exact path="/profile" component={Profile} />
         <Route exact path="/react_profile" component={Home} />
+        <Route exact path="/" component={Home} />
 
        
       </BrowserRouter>

@@ -42,10 +42,10 @@ class Profile extends React.Component{
 
                     <div className="card-top">
                         {specificProfile.skill.map((i,j)=>(
-                        <div>
-                            <h3> {i.t} </h3>
-                           <span> {i.l} </span>
-                        </div>
+                            <div>   
+                                <h3> {i.t} </h3>
+                                <span> {i.s} </span>                                
+                            </div>
                         ))}
                     </div>
                 </div>

@@ -24,19 +24,39 @@
             "skill":[
                 {
                     "t":"Web Technologies",
-                    "l":"HTML5"
+                    "s": [
+                        " HTML5 ",
+                        " CSS 3 ",
+                        " Javascript ",
+                        " React "
+                    ]
                 },
                 {
                     "t":"Programming Languages",
-                    "l":"C"
+                    "s": [
+                        " HTML5 ",
+                        " CSS 3 ",
+                        " Javascript ",
+                        " React "
+                    ]
                 },
                 {
                     "t":"Operating Systems",
-                    "l":"windows"
+                   "s": [
+                        " HTML5 ",
+                        " CSS 3 ",
+                        " Javascript ",
+                        " React "
+                    ]
                 },
                 {
                     "t":"Frameworks",
-                    "l":"Bootstrap"
+                    "s": [
+                        " HTML5 ",
+                        " CSS 3 ",
+                        " Javascript ",
+                        " React "
+                    ]
                 }
             ]
         },
@@ -64,19 +84,39 @@
             "skill":[
                 {
                     "t":"Web Technologies",
-                    "l":"HTML5"
+                    "s": [
+                        " HTML5 ",
+                        " CSS 3 ",
+                        " Javascript ",
+                        " React "
+                    ]
                 },
                 {
                     "t":"Programming Languages",
-                    "l":"C"
+                    "s": [
+                        " HTML5 ",
+                        " CSS 3 ",
+                        " Javascript ",
+                        " React "
+                    ]
                 },
                 {
                     "t":"Operating Systems",
-                    "l":"windows"
+                    "s": [
+                        " HTML5 ",
+                        " CSS 3 ",
+                        " Javascript ",
+                        " React "
+                    ]
                 },
                 {
                     "t":"Frameworks",
-                    "l":"Bootstrap"
+                   "s": [
+                        " HTML5 ",
+                        " CSS 3 ",
+                        " Javascript ",
+                        " React "
+                    ]
                 }
             ]
         }
