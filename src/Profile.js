@@ -10,15 +10,15 @@ class Profile extends React.Component{
             <section className="parent">
                 <div className="card"> 
                     <div className="card-top">
-        <h3> {specificProfile.basicInformation.name} </h3>
-    <em> {specificProfile.basicInformation.email} </em>
-                     </div>
+                        <h3> {specificProfile.basicInformation.name} </h3>
+                        <em> {specificProfile.basicInformation.email} </em>
+                    </div>
 
-                     <div className="card-bottom">
-<a href={"mailto:"+specificProfile.basicInformation.email}> {specificProfile.basicInformation.email}  </a> <br />
+                    <div className="card-bottom">
+                        <a href={"mailto:"+specificProfile.basicInformation.email}> {specificProfile.basicInformation.email}  </a> <br />
 
-<a href={"tel:"+specificProfile.basicInformation.mobile}> {specificProfile.basicInformation.mobile}</a>
-                     </div>
+                        <a href={"tel:"+specificProfile.basicInformation.mobile}> {specificProfile.basicInformation.mobile}</a>
+                    </div>
                 
                 </div>
 
@@ -31,7 +31,7 @@ class Profile extends React.Component{
                         {specificProfile.education.map((i,j)=>(
                         <div>
                             <h3> {i.degree} </h3>
-                           <p> {i.institution} </p>
+                            <p> {i.institution} </p>
                         </div>
                         ))}
                     </div>

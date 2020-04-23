@@ -34,19 +34,17 @@
                 {
                     "t":"Programming Languages",
                     "s": [
-                        " HTML5 ",
-                        " CSS 3 ",
-                        " Javascript ",
-                        " React "
+                        " C   ",
+                        " Java  ",
+                        " Python "
+                       
                     ]
                 },
                 {
                     "t":"Operating Systems",
                    "s": [
-                        " HTML5 ",
-                        " CSS 3 ",
-                        " Javascript ",
-                        " React "
+                        " Windows  ",
+                        " Linux "
                     ]
                 },
                 {
